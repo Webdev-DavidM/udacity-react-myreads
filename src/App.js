@@ -6,7 +6,7 @@ import Read from './components/Read';
 import WantToRead from './components/WantToRead';
 import Header from './components/Header';
 import SearchResults from './components/SearchResults';
-import { Route, Link } from 'react-router-dom';
+import { BrowserRouter, Route, Link } from 'react-router-dom';
 
 class BooksApp extends React.Component {
   state = {
@@ -112,6 +112,8 @@ class BooksApp extends React.Component {
     return (
       <div className="app">
         <Fragment>
+          
+            <BrowserRouter  basename={process.env.PUBLIC_URL}>
           <Route
             exact
             path="/search"
@@ -159,6 +161,7 @@ class BooksApp extends React.Component {
               />
             </div>
           </div>
+         </BrowserRouter>
         </Fragment>
       </div>
     );
