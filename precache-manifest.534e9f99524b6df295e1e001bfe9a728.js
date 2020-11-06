@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f78cfdde4acabefc190f5761be64d4e9",
+    "revision": "25a812d4e026273348450da2ef84b0f1",
     "url": "/udacity-react-myreads/index.html"
   },
   {
-    "revision": "ed002ab09906d3ee752f",
+    "revision": "ccb3a15ffdf4b1061191",
     "url": "/udacity-react-myreads/static/css/main.fc523a19.chunk.css"
   },
   {
-    "revision": "3ef7aef1d95b9026e567",
-    "url": "/udacity-react-myreads/static/js/2.385ab0c2.chunk.js"
+    "revision": "6233776bacba92524ad7",
+    "url": "/udacity-react-myreads/static/js/2.d5c801e7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/udacity-react-myreads/static/js/2.385ab0c2.chunk.js.LICENSE.txt"
+    "url": "/udacity-react-myreads/static/js/2.d5c801e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed002ab09906d3ee752f",
-    "url": "/udacity-react-myreads/static/js/main.20393be5.chunk.js"
+    "revision": "ccb3a15ffdf4b1061191",
+    "url": "/udacity-react-myreads/static/js/main.857d35a3.chunk.js"
   },
   {
     "revision": "ef1fecb188acdd2304ff",

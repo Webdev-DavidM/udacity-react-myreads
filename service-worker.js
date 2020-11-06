@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/udacity-react-myreads/precache-manifest.a5d238ba71eb1b5c9c75bf5a4b7d220e.js"
+  "/udacity-react-myreads/precache-manifest.534e9f99524b6df295e1e001bfe9a728.js"
 );
 
 self.addEventListener('message', (event) => {
