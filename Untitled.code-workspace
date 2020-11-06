@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "src",
+      "path": "../../../Downloads/reactnd-project-myreads-starter-master/src"
+    },
+    {
+      "name": "myreads-project",
+      "path": "."
+    }
+  ],
+  "settings": {}
+}
