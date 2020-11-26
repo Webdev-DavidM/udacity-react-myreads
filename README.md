@@ -1,5 +1,9 @@
+This is a book organising application.
 
-This was the first project on the udacity react developer nanodegree. Please click on the link below to view
+To run,
 
- https://webdev-davidm.github.io/udacity-react-myreads/
- 
+1. download the files
+
+2)Use the terminalto the root folder, and type npm i
+
+3. Once downloaded type
