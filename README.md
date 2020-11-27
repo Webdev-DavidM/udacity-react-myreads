@@ -4,6 +4,6 @@ To run,
 
 1. download the files
 
-2)Use the terminalto the root folder, and type npm i
+2)Use the terminal to the root folder, and type npm install
 
-3. Once downloaded type
+3. Once downloaded type npm start
