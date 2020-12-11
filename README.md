@@ -9,3 +9,5 @@ To run,
 3. Once downloaded type npm start
 
 To view please lick the link below
+
+https://webdev-davidm.github.io/udacity-react-myreads/
